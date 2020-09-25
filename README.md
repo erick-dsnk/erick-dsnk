@@ -8,3 +8,10 @@ I'm very passionate about software development, and wish to get a degree in Comp
 * Unrelated to programming but I also enjoy playing basketball 🏀!
 
 Check out TurboCharge [here](https://github.com/saint-dsnk/TurboCharge)!
+
+<a href="https://github.com/saint-dsnk">
+<img align="center" alt="saint-dsnk's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=saint-dsnk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
+<a href="https://github.com/saint-dsnk">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saint-dsnk&layout=compact&theme=radical" />
+</a>
