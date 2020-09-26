@@ -13,6 +13,6 @@ I'm very passionate about software development, and wish to get a degree in Comp
 <a href="https://github.com/erick-dsnk">
 <img align="center" alt="erick-dsnk's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=erick-dsnk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
-<a href="https://github.com/saint-dsnk">
+<a href="https://github.com/erick-dsnk">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=erick-dsnk&layout=compact&theme=radical" />
 </a>
