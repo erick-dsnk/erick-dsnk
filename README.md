@@ -16,5 +16,4 @@ I'm very passionate about software development, and wish to get a degree in Comp
 <a href="https://github.com/erick-dsnk">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=erick-dsnk&layout=compact&theme=radical" />
 </a>
-
-<script src="https://www.hackthebox.eu/badge/416507"></script>
+<img src="http://www.hackthebox.eu/badge/image/416507" alt="Hack The Box">
