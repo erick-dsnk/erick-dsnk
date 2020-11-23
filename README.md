@@ -9,7 +9,10 @@ I'm very passionate about software development, and wish to get a degree in Comp
 
 **Check out all my repos and projects [here](https://github.com/erick-dsnk?tab=repositories)**
 
-### GitHub Development Stats
+### Stats and Accomplishments
+<a href="https://top.gg/bot/743859839821807736">
+    <img src="https://top.gg/api/widget/743859839821807736.svg" alt="Uncle Dunk" />
+</a>
 <a href="https://github.com/erick-dsnk">
 <img align="center" alt="erick-dsnk's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=erick-dsnk&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
